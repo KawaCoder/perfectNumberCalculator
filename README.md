@@ -2,8 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at https://mozilla.org/MPL/2.0/. 
    - Creator: DR34M-M4K3R#7751-->
-# THE README IS STILL IN CREATION
-
+   
 <p align="center">
     <a href="https://www.mozilla.org/en-US/MPL/">
       <img src="https://img.shields.io/badge/License-MPL%202.0-orange.svg?style=for-the-badge&logo=mozilla" />
