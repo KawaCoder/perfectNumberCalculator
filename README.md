@@ -34,9 +34,9 @@
 ### 1. [Downloads](https://github.com/DR34M-M4K3R/perfectNumberCalculator#downloads) <br/>
 ### 2. [About the program](https://github.com/DR34M-M4K3R/perfectNumberCalculator#about-the-program) <br/>
 ### 3. [How to launch the software?](https://github.com/DR34M-M4K3R/perfectNumberCalculator#launch-the-software)
-### 4. [How to use Anti-AFK?](https://github.com/DR34M-M4K3R/perfectNumberCalculator#how-to-use-unbeatabletictactoe)
+### 4. [How to use perfectNumberCalculator?](https://github.com/DR34M-M4K3R/perfectNumberCalculator#how-to-use-perfectNumberCalculator)
 ### 5. [Special cases and internal errors](https://github.com/DR34M-M4K3R/perfectNumberCalculator#special-cases-and-internal-errors)
-### 6. [Contact (24/24h)](https://github.com/DR34M-M4K3R/unbeatableTicTacToe#contact)
+### 6. [Contact (24/24h)](https://github.com/DR34M-M4K3R/perfectNumberCalculator#contact)
 
 <br/><br/>
 ## Downloads
