@@ -60,11 +60,13 @@ public class Main {
             for (int ii = 1; ii <= nombre/2; ii++) {
 
                 if (i % ii == 0) {
+                    System.out.println(ii);
                     somme=somme+ii;
 
                 }
 
                 if (i==somme){
+                    System.out.println(i+", la somme de ses diviseurs fait "+somme);
                     nombres_parfaits.add(i);
                     nombrestr = String.valueOf(nombres_parfaits);
                     savefile();

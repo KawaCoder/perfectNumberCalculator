@@ -16,7 +16,7 @@
   </p>
 
 # Perfect Number Calculator
-## A program that compute perfect numbers with different parameters and save them into a file.
+## A program that compute perfect numbers with different parameters and save them into a file. (doesn't actually works perfectly )
 
 
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
